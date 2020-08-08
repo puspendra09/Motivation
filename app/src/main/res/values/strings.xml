@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="checkinternet">Check your internet</string>
+    <string name="Loading">Loading....</string>
+    <string name="somethingwentwrong">Something went Wrong</string>
+    <string name="retry">retry</string>
+    <string name="exit">exit</string>
+</resources>
